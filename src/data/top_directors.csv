@@ -1,0 +1,52 @@
+Movie Name,Release Year,Director,Actor 1 Name,Actor 1 Gender,Actor 1 Birthdate,Actor 1 Age,Actor 2 Name,Actor 2 Gender,Actor 2 Birthdate,Actor 2 Age,appearance_total,avg_diff
+The Big Lebowski,1998,Joel Coen,David Huddleston,man,1930-09-17,68,Tara Reid,woman,1975-11-08,23,5,19.0
+The Man Who Wasn't There,2001,Joel Coen,Billy Bob Thornton,man,1955-08-04,46,Scarlett Johansson,woman,1984-11-22,17,5,19.0
+The Big Lebowski,1998,Joel Coen,Jeff Bridges,man,1949-12-04,49,Julianne Moore,woman,1960-12-03,38,5,19.0
+Raising Arizona,1987,Joel Coen,Nicolas Cage,man,1964-01-07,23,Holly Hunter,woman,1958-03-20,29,5,19.0
+The Hudsucker Proxy,1994,Joel Coen,Tim Robbins,man,1958-10-18,36,Jennifer Jason Leigh,woman,1962-02-05,32,5,19.0
+Whatever Works,2009,Woody Allen,Larry David,man,1947-07-02,62,Evan Rachel Wood,woman,1987-09-07,22,20,20.0
+Husbands and Wives,1992,Woody Allen,Woody Allen,man,1935-12-01,57,Juliette Lewis,woman,1973-06-21,19,20,20.0
+Hollywood Ending,2002,Woody Allen,Woody Allen,man,1935-12-01,67,Debra Messing,woman,1968-08-15,34,20,20.0
+Mighty Aphrodite,1995,Woody Allen,Woody Allen,man,1935-12-01,60,Mira Sorvino,woman,1967-09-28,28,20,20.0
+Mighty Aphrodite,1995,Woody Allen,Woody Allen,man,1935-12-01,60,Helena Bonham Carter,woman,1966-05-26,29,20,20.0
+Café Society,2016,Woody Allen,Steve Carell,man,1962-08-16,54,Kristen Stewart,woman,1990-04-09,26,20,20.0
+Magic in the Moonlight,2014,Woody Allen,Colin Firth,man,1960-09-10,54,Emma Stone,woman,1988-11-06,26,20,20.0
+Manhattan,1979,Woody Allen,Woody Allen,man,1935-12-01,44,Mariel Hemingway,woman,1961-11-22,18,20,20.0
+Husbands and Wives,1992,Woody Allen,Sydney Pollack,man,1934-07-01,58,Judy Davis,woman,1955-04-23,37,20,20.0
+Mighty Aphrodite,1995,Woody Allen,Peter Weller,man,1947-06-24,48,Helena Bonham Carter,woman,1966-05-26,29,20,20.0
+Whatever Works,2009,Woody Allen,Larry David,man,1947-07-02,62,Jessica Hecht,woman,1965-06-28,44,20,20.0
+Scoop,2006,Woody Allen,Hugh Jackman,man,1968-10-12,38,Scarlett Johansson,woman,1984-11-22,22,20,20.0
+Hollywood Ending,2002,Woody Allen,Treat Williams,man,1951-12-01,51,Tea Leoni,woman,1966-02-25,36,20,20.0
+Irrational Man,2015,Woody Allen,Joaquin Phoenix,man,1974-10-28,41,Emma Stone,woman,1988-11-06,27,20,20.0
+Annie Hall,1977,Woody Allen,Woody Allen,man,1935-12-01,42,Diane Keaton,woman,1946-01-05,31,20,20.0
+Husbands and Wives,1992,Woody Allen,Woody Allen,man,1935-12-01,57,Mia Farrow,woman,1945-02-09,47,20,20.0
+Manhattan,1979,Woody Allen,Michael Murphy,man,1938-05-05,41,Diane Keaton,woman,1946-01-05,33,20,20.0
+Café Society,2016,Woody Allen,Jesse Eisenberg,man,1983-10-05,33,Kristen Stewart,woman,1990-04-09,26,20,20.0
+Café Society,2016,Woody Allen,Jesse Eisenberg,man,1983-10-05,33,Blake Lively,woman,1987-08-25,29,20,20.0
+Whatever Works,2009,Woody Allen,Henry Cavill,man,1983-05-05,26,Evan Rachel Wood,woman,1987-09-07,22,20,20.0
+Wild Target,2010,Jonathan Lynn,Bill Nighy,man,1949-12-12,61,Emily Blunt,woman,1983-02-23,27,4,19.0
+My Cousin Vinny,1992,Jonathan Lynn,Joe Pesci,man,1943-02-09,49,Marisa Tomei,woman,1964-12-04,28,4,19.0
+The Whole Nine Yards,2000,Jonathan Lynn,Bruce Willis,man,1955-03-19,45,Amanda Peet,woman,1972-01-11,28,4,19.0
+The Whole Nine Yards,2000,Jonathan Lynn,Matthew Perry,man,1969-08-19,31,Natasha Henstridge,woman,1974-08-15,26,4,19.0
+A View to a Kill,1985,John Glen,Roger Moore,man,1927-10-14,58,Mary Stavin,woman,1957-08-20,28,15,20.0
+For Your Eyes Only,1981,John Glen,Roger Moore,man,1927-10-14,54,Carole Bouquet,woman,1957-08-18,24,15,20.0
+A View to a Kill,1985,John Glen,Roger Moore,man,1927-10-14,58,Fiona Fullerton,woman,1956-10-10,29,15,20.0
+A View to a Kill,1985,John Glen,Roger Moore,man,1927-10-14,58,Tanya Roberts,woman,1955-10-15,30,15,20.0
+Octopussy,1983,John Glen,Roger Moore,man,1927-10-14,56,Kristina Wayborn,woman,1950-09-24,33,15,20.0
+A View to a Kill,1985,John Glen,Roger Moore,man,1927-10-14,58,Grace Jones,woman,1948-05-19,37,15,20.0
+For Your Eyes Only,1981,John Glen,Roger Moore,man,1927-10-14,54,Cassandra Harris,woman,1948-12-15,33,15,20.0
+Licence to Kill,1989,John Glen,Timothy Dalton,man,1946-03-21,43,Talisa Soto,woman,1967-03-27,22,15,20.0
+Octopussy,1983,John Glen,Roger Moore,man,1927-10-14,56,Maud Adams,woman,1945-02-12,38,15,20.0
+The Living Daylights,1987,John Glen,Jeroen Krabbe,man,1944-12-05,43,Maryam d'Abo,woman,1960-12-27,27,15,20.0
+Licence to Kill,1989,John Glen,Timothy Dalton,man,1946-03-21,43,Carey Lowell,woman,1961-02-11,28,15,20.0
+Licence to Kill,1989,John Glen,Robert Davi,man,1953-06-26,36,Talisa Soto,woman,1967-03-27,22,15,20.0
+The Living Daylights,1987,John Glen,Timothy Dalton,man,1946-03-21,41,Maryam d'Abo,woman,1960-12-27,27,15,20.0
+For Your Eyes Only,1981,John Glen,Chaim Topol,man,1935-09-09,46,Cassandra Harris,woman,1948-12-15,33,15,20.0
+A View to a Kill,1985,John Glen,Christopher Walken,man,1943-03-31,42,Grace Jones,woman,1948-05-19,37,15,20.0
+Moonraker,1979,Lewis Gilbert,Roger Moore,man,1927-10-14,52,Emily Bolton,woman,1951-06-15,28,7,17.0
+Moonraker,1979,Lewis Gilbert,Roger Moore,man,1927-10-14,52,Corinne Clery,woman,1950-03-23,29,7,17.0
+Moonraker,1979,Lewis Gilbert,Roger Moore,man,1927-10-14,52,Lois Chiles,woman,1947-04-15,32,7,17.0
+The Spy Who Loved Me,1977,Lewis Gilbert,Roger Moore,man,1927-10-14,50,Barbara Bach,woman,1947-08-27,30,7,17.0
+You Only Live Twice,1967,Lewis Gilbert,Sean Connery,man,1930-08-25,37,Mie Hama,woman,1943-11-20,24,7,17.0
+You Only Live Twice,1967,Lewis Gilbert,Sean Connery,man,1930-08-25,37,Akiko Wakabayashi,woman,1941-08-26,26,7,17.0
+You Only Live Twice,1967,Lewis Gilbert,Sean Connery,man,1930-08-25,37,Karin Dor,woman,1938-02-22,29,7,17.0

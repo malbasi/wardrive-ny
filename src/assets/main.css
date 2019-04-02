@@ -1,0 +1,192 @@
+
+          .container {
+            /*max-width: 60rem;*/
+          }
+
+          .centered {
+            position: absolute;
+            top: 30%;
+            left: 20%;
+            font-size: 50px;
+            color: white;
+            /* transform: translate(-50%, -50%); */
+          }
+
+          .sticky {
+            position: -webkit-sticky;
+            position: sticky;
+            bottom:1rem;
+            top: 0;
+            align-self: flex-start;
+          }
+
+          .body {
+            text-align: center;
+          }
+
+          .gallery {
+            position: center;
+          }
+
+           h1 {
+            text-align: center;
+             margin-bottom: 2rem; 
+             font-size: 28px;
+             font-weight: bold;
+             font-family: 'Roboto', serif;
+             line-height: 1.5em;
+          }         
+
+           h2 { 
+            margin-top: 3rem; 
+            margin-bottom: 1rem;
+            color: black;
+            font-family: 'Merriweather', serif;
+    /*        font-family: 'Merriweather', serif;*/
+            line-height: 1.5em;
+            font-size: 22px;
+            font-weight: bold;
+            }  
+
+          h3 { 
+            margin-top: 3rem; 
+            margin-bottom: 1rem;
+            color: black;
+            font-family: 'Merriweather', serif;
+    /*        font-family: 'Merriweather', serif;*/
+            line-height: 1.5em;
+            font-size: 18px;
+            font-weight: bold;
+          }
+
+
+          h5 { 
+            margin-top: 3rem; 
+            margin-bottom: 1rem;
+            color: black;
+            font-family: 'Roboto', serif;
+            line-height: 1.5em;
+            font-size: 12px;
+            font-weight: lighter;
+          }
+
+
+
+          #chart-1 .axis line {
+            stroke: #999;
+            stroke-width: 0.5;
+            stroke-dasharray: 3 2;
+          }
+
+          p small {
+            background: #fff880;
+          }
+
+          p {
+            color: black;
+            font-family: 'Merriweather', serif;
+            font-size: 16px;
+            line-height: 1.5em;
+            padding: 10px 0;
+            }
+
+          text {
+            color: black;
+            font-family: 'Merriweather', serif;
+            font-size: 13px;
+            line-height: 1.5em;
+            padding: 10px 0;            
+          }
+
+          .movie-text {
+            color: black;
+            font-family: 'Merriweather', serif;
+            font-size: 15px;
+            line-height: 1.5em;
+            padding: 10px 0;             
+          }
+          
+          .colored-text {
+            padding: 1px 7px;
+            display: inline-block;
+          }
+          
+          .dark-theme {
+              background-color: #F9F5EC;
+              color: #292723; 
+              font-family: 'Merriweather', sans-serif;
+              font-weight: lighter;    
+          }
+
+
+          /* Highlight steps when you scroll into them */
+          /* You can delete this one! */
+          /*.step.entered {
+            -webkit-transform-style: preserve-3d;
+            -moz-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+            -webkit-transition: 1.5s background;
+            -moz-transition: 1.5s background;
+            transition: 1.5s background;
+            background: #fff888;
+          }*/
+
+          /* Minimum height of 70% of the screen */
+          .step {
+            min-height: 100vh;
+          }
+
+          .step > p {
+
+            padding: 10px 0;
+            margin-bottom: 0;
+            padding-bottom: 1rem;
+          }
+
+          .step > h2, .step > h3 {
+            background: rgba(255,255,255,0.9);
+          }
+
+          /* Code to customize the tooltip */
+            .tooltip {  
+            position: absolute;     
+            text-align: center;             
+            padding: 10px;      
+            font-family: 'Open Sans', sans-serif; 
+            font: 14px sans-serif;    
+            background-color: #F9E0A8;  
+            border: 0px;    
+            border-radius: 8px;     
+            pointer-events: none;
+            vertical-align: middle;
+           }
+
+           img{
+            height:auto;
+            width:100%;
+            margin-left: 0%;
+            margin-right: 0%;
+            display: block;
+        }
+
+  ::selection {
+          text-shadow: 0 0 0.8rem rgb(252, 185, 170);
+          background:  #f5c158;
+          color: #4b1803;
+      }
+      
+      /* unvisited link */
+      a:link {
+          color: #292723;
+      }
+      
+      /* visited link */
+      a:visited {
+          color: #292723;
+      }
+      
+      /* mouse over link */
+      a:hover {
+          color: #bb5e22;
+      }
+        
