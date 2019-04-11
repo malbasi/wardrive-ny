@@ -121,7 +121,7 @@
 
           /* Highlight steps when you scroll into them */
           /* You can delete this one! */
-          /*.step.entered {
+/*          .step.entered {
             -webkit-transform-style: preserve-3d;
             -moz-transform-style: preserve-3d;
             transform-style: preserve-3d;
