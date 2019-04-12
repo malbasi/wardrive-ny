@@ -8,14 +8,14 @@
             left: 20%;
             font-size: 50px;
             color: white;
-            /* transform: translate(-50%, -50%); */
+             /*transform: translate(-50%, -50%); */
           }
 
           .sticky {
             position: -webkit-sticky;
             position: sticky;
             bottom:1rem;
-            top: 0;
+            top: 1rem;
             align-self: flex-start;
           }
 
@@ -27,12 +27,17 @@
             position: center;
           }
 
+          video {
+
+            width: 100%;
+          }
+
            h1 {
             text-align: center;
              margin-bottom: 2rem; 
              font-size: 28px;
              font-weight: bold;
-             font-family: 'Roboto', serif;
+             font-family: 'Optima', serif;
              line-height: 1.5em;
           }         
 
@@ -63,7 +68,7 @@
             margin-top: 3rem; 
             margin-bottom: 1rem;
             color: black;
-            font-family: 'Roboto', serif;
+            font-family: 'Optima', serif;
             line-height: 1.5em;
             font-size: 12px;
             font-weight: lighter;
@@ -168,13 +173,6 @@
             display: block;
         }
 
-          /*#myVideo {
-            position: fixed;
-            right: 0;
-            bottom: 0;
-            min-width: 100%; 
-            min-height: 100%;
-          }*/
 
   ::selection {
           text-shadow: 0 0 0.8rem rgb(252, 185, 170);
