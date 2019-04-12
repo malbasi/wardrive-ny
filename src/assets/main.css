@@ -1,6 +1,6 @@
 
           .container {
-            /*max-width: 60rem;*/
+            max-width: 60rem;
           }
 
           .centered {
@@ -168,6 +168,14 @@
             margin-right: 0%;
             display: block;
         }
+
+          /*#myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%; 
+            min-height: 100%;
+          }*/
 
   ::selection {
           text-shadow: 0 0 0.8rem rgb(252, 185, 170);
