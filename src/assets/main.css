@@ -164,19 +164,22 @@
             pointer-events: none;
             vertical-align: middle;
            }
+          #feature-image{
+            max-width: none;
+            width: auto;
+            height: auto;
+          }
 
            img{
             max-height: 800px;
+            max-width: 800px;
             height:auto;
             width:auto;
             margin-left: 0%;
             margin-right: 0%;
             display: block;
         }
-          .feature-image{
-            width: 100%;
-            height: auto;
-          }
+
 
 
   ::selection {

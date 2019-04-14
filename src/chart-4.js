@@ -153,7 +153,7 @@ function ready (datapoints) {
 
   // add cell phone
   d3.select('svg').append('image')
-    .attr('xlink:href', 'https://raw.githubusercontent.com/malbasi/wardrive-ny/master/src/images/phone.svg')
+    .attr('xlink:href', 'https://raw.githubusercontent.com/malbasi/wardrive-ny/master/src/images/cellphone.png')
     .attr('class', 'cellphone')
     .attr('x', width * 1.1)
     .attr('y', startY)
@@ -162,7 +162,7 @@ function ready (datapoints) {
     .attr('opacity', 1)
   // add antenna
   d3.select('svg').append('image')
-    .attr('xlink:href', 'https://raw.githubusercontent.com/malbasi/wardrive-ny/master/src/images/antenna-01.png')
+    .attr('xlink:href', 'https://raw.githubusercontent.com/malbasi/wardrive-ny/master/src/images/antenna.png')
     .attr('class', 'antenna')
     .attr('x', width / 2 * 1.2)
     .attr('y', 0)
