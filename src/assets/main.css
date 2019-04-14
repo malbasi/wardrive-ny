@@ -166,12 +166,17 @@
            }
 
            img{
+            max-height: 800px;
             height:auto;
-            width:100%;
+            width:auto;
             margin-left: 0%;
             margin-right: 0%;
             display: block;
         }
+          .feature-image{
+            width: 100%;
+            height: auto;
+          }
 
 
   ::selection {
