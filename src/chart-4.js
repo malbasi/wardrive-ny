@@ -153,7 +153,7 @@ function ready (datapoints) {
 
   // add cell phone
   d3.select('svg').append('image')
-    .attr('xlink:href', 'https://raw.githubusercontent.com/malbasi/wardrive-ny/master/src/images/cellphone.png')
+    .attr('xlink:href', 'https://raw.githubusercontent.com/malbasi/wardrive-ny/master/src/images/phone.svg')
     .attr('class', 'cellphone')
     .attr('x', width * 1.1)
     .attr('y', startY)
