@@ -226,8 +226,6 @@ function ready (datapoints) {
   })
 
   d3.select('#stepTwo').on('stepin', () => {
-    // d3.select('#chart-4').dispatch('stepin')
-    console.log('step2')
     holder.selectAll('path')
       .attr('d', d => {
         let points = [
